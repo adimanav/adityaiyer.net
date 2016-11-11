@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/adityaiyer-net":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/adityaiyer-net","hostpath":"/home/adimanav/adityaiyer.net","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/adimanav/adityaiyer.net","disabled":false,"__vagrantfile":true}}}
